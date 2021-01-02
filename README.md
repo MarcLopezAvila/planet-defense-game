@@ -7,3 +7,5 @@
 Protect the planet! Destroy the asteroids to save your people! It's my first canvas game, enjoy it! :)
 
 ![alt text](./img/game.png)
+
+*Old code from my first projects moved to GitHub*
