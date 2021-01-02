@@ -2,4 +2,4 @@
 
 https://marclopezavila.github.io/planet-defense-game/
 
-![alt text]('https://marclopezavila.github.io/planet-defense-game/img/game.png)
+![alt text]('https://marclopezavila.github.io/planet-defense-game/img/game.jpg)
