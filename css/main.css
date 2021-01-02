@@ -5,6 +5,10 @@ html {
     width: 100%;
 }
 
+body {
+    margin: 0;
+}
+
 #canvas {
     background: url('../img/space.jpg') no-repeat;
     width: 100%;
