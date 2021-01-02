@@ -6,12 +6,12 @@ html {
 }
 
 #canvas {
-    background: url('./img/space.jpg') no-repeat;
+    background: url('../img/space.jpg') no-repeat;
     width: 100%;
     height: 100%;
     background-size: cover;
 }
 
 #canvas.playing {
-    cursor: url('./img/aim_red.png') 17.5 17.5,auto !important;
+    cursor: url('../img/aim_red.png') 17.5 17.5,auto !important;
 }
